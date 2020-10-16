@@ -2,8 +2,8 @@ package com.cg;
 
 public class Hotels {
 
-	private String hotelName;
-	private int weekdayRatesForRegulars;
+	String hotelName;
+	int weekdayRatesForRegulars;
 	
 	public Hotels(String hotelName, int weekdayRatesForRegulars) {
 		this.hotelName = hotelName;
